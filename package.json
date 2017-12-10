@@ -1,0 +1,19 @@
+{
+  "name": "eleuazurefunctions",
+  "version": "1.0.0",
+  "description": "sdgsdfgsdfgdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Zip Exists!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeberg/ExpertsLiveAzureFunctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeberg/ExpertsLiveAzureFunctions/issues"
+  },
+  "homepage": "https://github.com/leeberg/ExpertsLiveAzureFunctions#readme"
+}
