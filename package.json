@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leeberg/ExpertsLiveAzureFunctions.git"
+    "url": "git+https://github.com/leeberg/MadisonDevOpsDemo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leeberg/ExpertsLiveAzureFunctions/issues"
+    "url": "https://github.com/leeberg/MadisonDevOpsDemo/issues"
   },
-  "homepage": "https://github.com/leeberg/ExpertsLiveAzureFunctions#readme"
+  "homepage": "https://github.com/leeberg/MadisonDevOpsDemo#readme"
 }

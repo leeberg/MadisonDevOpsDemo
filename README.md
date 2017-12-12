@@ -1,3 +1,3 @@
-# ExpertsLiveAzureFunctions
+# Madison Dev Ops Demo!
 
-sdgsdfgsdfgdf
+This is a Demo Repo to show a number of features for Deploying Azure Functions
